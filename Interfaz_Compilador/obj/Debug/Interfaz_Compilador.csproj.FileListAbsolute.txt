@@ -1,0 +1,11 @@
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\bin\Debug\Interfaz_Compilador.exe.config
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\bin\Debug\Interfaz_Compilador.exe
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\bin\Debug\Interfaz_Compilador.pdb
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.csproj.AssemblyReference.cache
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.Form1.resources
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.Properties.Resources.resources
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.csproj.GenerateResource.cache
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.exe
+C:\Users\mayor\source\repos\Interfaz_Compilador\Interfaz_Compilador\obj\Debug\Interfaz_Compilador.pdb
